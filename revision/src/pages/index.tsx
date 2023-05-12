@@ -12,6 +12,7 @@ export default function Home() {
     "003useId",
     "004useReducer",
     "005useTransition",
+    "006redux",
   ];
 
   return (
