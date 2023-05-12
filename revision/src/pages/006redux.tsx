@@ -27,6 +27,13 @@ const PokemonReducerApp = () => {
     <div>
       <PokemonInfo {...a} type="b" />
       <PokemonInfo {...b} type="a" />
+      <br />
+      <a
+        target="_blank"
+        href="https://github.dev/treetips/typescript-nextjs-redux-toolkit-material-ui-example"
+      >
+        reference repo
+      </a>
     </div>
   );
 };
